@@ -1,0 +1,25 @@
+{
+  "name": "bot-music",
+  "version": "1.0.0",
+  "description": "A simple music player 0724-6",
+  "main": "./dist/index.umd.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "start": "pnpm --filter bot-music-test start",
+    "build": "webpack --config ./webpack.build.js"
+  },
+  "keywords": [
+    "bot-ui",
+    "vue",
+    "ui"
+  ],
+  "author": "DirtyBottle",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.75.0"
+  }
+}
