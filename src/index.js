@@ -1,5 +1,5 @@
 import "./css/index.css";
-// 0724-5
+// 0724-6
 class BotMusic {
   constructor({
     el = undefined,
