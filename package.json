@@ -1,7 +1,7 @@
 {
   "name": "bot-music",
   "version": "1.0.1",
-  "description": "A simple music player 0724-6",
+  "description": "A simple music player 0727-0",
   "main": "./dist/index.umd.js",
   "files": [
     "dist"
